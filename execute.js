@@ -1,4 +1,6 @@
 
+/*
+
 const setEmbed = new EmbeddedMap("proofFolder/set.html",500,500,"set");
 setEmbed.submitTag("set")
 .modifyText("h2")
@@ -25,3 +27,4 @@ ideaClass
 .addSubContext()
 .showIdea()
 .addIdea("cartesianProduct")
+*/
